@@ -19,6 +19,7 @@
                      UAP that enter out planet.";
         $summary2 = "Operating in Space X helping to 
                     lunch the Starship. With the help of Elon Musk we achieve to lunch successfully.";
+        $school = "TVC Sta. Teresa National Highschool";
         $hub1 = "Playing Video Games ";
         $hub2 = "Trail Enduro";
         $hub3 = "Shooting Stars";
@@ -93,11 +94,10 @@
     <table border="2px">
         <tr>
             <td>
-                <strong><?php echo$num1;?></strong>
-                <strong><?php echo$num;?></strong>
+                <strong>2017-2019</strong>
             </td>
             <td>
-                <p>TVC Sta. Teresa National Highschool</p>
+                <p><?php echo$school;?></p>
             </td>
         </tr>
     </table>
@@ -122,39 +122,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-?>
